@@ -30,6 +30,12 @@ Everything in this guide is free btw
 
 ## 📐 Design
 
+### UX Resources
+
+- [Laws of UX](https://lawsofux.com/)
+- [Daily UI Challenge](https://www.dailyui.co/)
+- [UX Project Checklist](https://www.ux-checklist.com/)
+
 ### Figma
 
 #### Plugins
