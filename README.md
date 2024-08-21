@@ -36,7 +36,10 @@ Everything in this guide is free btw
 - [Daily UI Challenge](https://www.dailyui.co/)
 - [UX Project Checklist](https://www.ux-checklist.com/)
 
-### Figma
+### Tools
+- [Blender](https://www.blender.org/)
+- [Figma](https://www.figma.com/)
+- [Miro](https://miro.com/)
 
 #### Plugins
 
