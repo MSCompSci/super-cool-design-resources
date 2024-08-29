@@ -173,6 +173,7 @@ Everything in this guide is free btw
 - [Browserstack browser testing](https://www.browserstack.com/screenshots)
 - [Nu HTML Checker](https://validator.unl.edu/)
 - [W3C Markup Validator](https://validator.w3.org/)
+- [Regex101](https://regex101.com/)
 
 ## 📚 Learning
 
