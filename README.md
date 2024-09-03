@@ -76,6 +76,7 @@ Everything in this guide is free btw
 - [Canva](https://www.canva.com/)
 - [Icons8](https://icons8.com/)
 - [x-icon editor](https://www.xiconeditor.com/)
+- [Text to ACII art generator](https://www.patorjk.com/software/taag)
 
 #### Desktop
 
