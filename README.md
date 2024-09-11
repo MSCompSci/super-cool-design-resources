@@ -90,7 +90,8 @@ Everything in this guide is free btw
 - [Hero icons](https://heroicons.com/)
 - [Lucide icons](https://lucide.dev/icons/)
 - [Skill Icons](https://skillicons.dev/)
-- [Iconify Icon Search](https://icon-sets.iconify.design/)
+- [Iconify icon search](https://icon-sets.iconify.design/)
+- [Framework7 icons](https://framework7.io/icons/)
 
 ### Image Libraries (Free Use)
 
