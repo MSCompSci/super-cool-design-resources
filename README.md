@@ -52,6 +52,7 @@ Everything in this guide is free btw
 ### Font Libraries
 
 - [Google Fonts](https://fonts.google.com/)
+- [Fontsource Library](https://fontsource.org/)
 
 ### Tools
 
@@ -88,6 +89,7 @@ Everything in this guide is free btw
 - [Fontawesome icons](https://origin.fontawesome.com/icons)
 - [Hero icons](https://heroicons.com/)
 - [Lucide icons](https://lucide.dev/icons/)
+- [Skill Icons](https://skillicons.dev/)
 
 ### Image Libraries (Free Use)
 
@@ -150,6 +152,10 @@ Everything in this guide is free btw
 - [HTML Boilerplates](https://htmlboilerplates.com/)
 
 ### JavaScript
+
+#### 3D Graphics
+- [Babylon.js](https://doc.babylonjs.com/journey)
+- [Three.js](https://threejs.org/)
 
 #### Component Libraries
 
