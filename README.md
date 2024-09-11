@@ -90,6 +90,7 @@ Everything in this guide is free btw
 - [Hero icons](https://heroicons.com/)
 - [Lucide icons](https://lucide.dev/icons/)
 - [Skill Icons](https://skillicons.dev/)
+- [Iconify Icon Search](https://icon-sets.iconify.design/)
 
 ### Image Libraries (Free Use)
 
