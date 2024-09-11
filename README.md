@@ -175,6 +175,9 @@ Everything in this guide is free btw
 - [Skeleton](https://www.skeleton.dev/)
 - [DaisyUI](https://daisyui.com/)
 - [Preline](https://preline.co/index.html)
+- [Shadcn/ui](https://ui.shadcn.com/)
+- [NextUI](https://nextui.org/)
+- [Flowbite](https://flowbite.com/)
 
 ### Website Testing
 
