@@ -14,6 +14,9 @@ Everything in this guide is free btw
 
 - [PAVE PDF accessibility tool](https://pave-pdf.org/?lang=en)
 
+### Development
+- [ARIA Authoring Practices Guide UI Component Patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
+
 ### Icons
 
 - [Fontawesome icon accessibility](https://docs.fontawesome.com/v5/web/other-topics/accessibility)
